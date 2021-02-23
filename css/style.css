@@ -1,0 +1,139 @@
+/* styla omoss, hittaoss, kontakt, meny*/
+
+.h1 {text-align: center;
+font-family: "Raleway", sans-serif;
+font-weight: bold;
+color: white;
+
+}
+
+@media screen and (max-width: 600px) {
+.container {
+  height: 100vh;
+  float: none;
+    width: 100%;
+}
+}
+
+.länk {font-family: "Raleway", sans-serif; color: black;
+text-decoration: none;
+
+}
+
+.kontakt { background-color: #cccccc; text-align: center;
+
+
+}
+
+.p {color: white; text-align: center;
+
+}
+
+.section {background-color: #E50050;
+
+}
+
+/* Försöker få nån typ av hover effekt*/
+
+.link1 { transition: 0.4s;
+  color: #ffffff;
+  font-size: 20px;
+  text-decoration: none;
+  padding: 0 10px;
+  margin: 0 10px;
+
+}
+
+.link2 { transition: 0.4s;
+  color: #ffffff;
+  font-size: 20px;
+  text-decoration: none;
+  /*padding: 0 10px;
+  margin: 0 10px;*/
+
+}
+
+.link3 { transition: 0.4s;
+  color: #ffffff;
+  font-size: 20px;
+  text-decoration: none;
+  /*padding: 0 10px;
+  margin: 0 10px;*/
+
+}
+
+.link4 { transition: 0.4s;
+  color: #ffffff;
+  font-size: 20px;
+  text-decoration: none;
+  /*padding: 0 10px;
+  margin: 0 10px;*/
+
+}
+
+.link5 { transition: 0.4s;
+  color: #ffffff;
+  font-size: 20px;
+  text-decoration: none;
+  /*padding: 0 10px;
+  margin: 0 10px;*/
+
+}
+
+.link1:hover {background-color: #ffffff;
+  color: #EEA200;
+  padding: 24px 10px;
+
+}
+
+.link2:hover {background-color: #ffffff;
+  color: #EEA200;
+  padding: 24px 10px;
+
+}
+
+.link3:hover {background-color: #ffffff;
+  color: #EEA200;
+  padding: 24px 10px;
+
+}
+
+.link4:hover {background-color: #ffffff;
+  color: #EEA200;
+  padding: 24px 10px;
+
+}
+
+.link5:hover {background-color: #ffffff;
+  color: #EEA200;
+  padding: 24px 10px;
+
+}
+/*Öppettider styling*/
+.öppettider {text-align: center;
+
+}
+
+.texter {color: #cccccc;
+  font-family: "Raleway", sans-serif;font-size: 20px;
+
+}
+
+.överskrift {color: #cccccc;
+  font-family: "Raleway", sans-serif; font-size: 150%;
+
+}
+
+/* Matbilder*/
+.bilder {
+
+}
+
+.adresstext {font-family: "Raleway", sans-serif;
+font-weight: bold;
+
+}
+
+#bildspel {
+  align-content: center;
+}
